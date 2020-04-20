@@ -1,0 +1,26 @@
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "com\darwinreforged\pweather\Core.java" md5: 393b48b47359664076dbea33fac1754b
+Cache Hit!
+endProcessing "com\darwinreforged\pweather\Core.java"
+
+startProcessing "com\darwinreforged\pweather\LightningManager.java" md5: 82cf6ccc7516ff671698006c37b0c77e
+Cache Hit!
+endProcessing "com\darwinreforged\pweather\LightningManager.java"
+
+startProcessing "com\darwinreforged\pweather\Listeners.java" md5: a5a0ed9aef08ef5f2fa39b3dc17e76b2
+Cache Hit!
+endProcessing "com\darwinreforged\pweather\Listeners.java"
+
+startProcessing "com\darwinreforged\pweather\PlayerWeatherCommand.java" md5: ec6d4574c3da42ca00c868fe207636fe
+Cache Hit!
+endProcessing "com\darwinreforged\pweather\PlayerWeatherCommand.java"
+
+startProcessing "com\darwinreforged\pweather\PlotWeatherCommand.java" md5: e9575e4de7553b10c588b0713d8f57c7
+Cache Hit!
+endProcessing "com\darwinreforged\pweather\PlotWeatherCommand.java"
+
+startProcessing "com\darwinreforged\pweather\WeatherPlugin.java" md5: 75f610d0cc7ef478d3d3abd0f99fb9a7
+Cache Hit!
+endProcessing "com\darwinreforged\pweather\WeatherPlugin.java"
+

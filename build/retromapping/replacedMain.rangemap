@@ -1,0 +1,1094 @@
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "com\darwinreforged\pweather\Core.java" md5: 393b48b47359664076dbea33fac1754b
+Cache Hit!
+    Compile Error! Pb(883) '<>' operator is not allowed for source level below 1.7
+    Compile Error! Pb(881) Cannot switch on a value of type String for source level below 1.7. Only convertible int values or enum variables are permitted
+    Compile Error! Pb(883) '<>' operator is not allowed for source level below 1.7
+    Compile Error! Pb(883) '<>' operator is not allowed for source level below 1.7
+    Compile Error! Pb(883) '<>' operator is not allowed for source level below 1.7
+    Compile Error! Pb(645) Lambda expressions are allowed only at source level 1.8 or above
+Unmatched newcode end: 5544: // 1: End Raining, 2: Begin Raining
+@|com\darwinreforged\pweather\Core.java|8|35|com.darwinreforged.pweather|package|com.darwinreforged.pweather|(file)
+Class Start: com.darwinreforged.pweather.Core
+   @|com\darwinreforged\pweather\Core.java|977|981|Core|class|com.darwinreforged.pweather.Core
+   Enum Start: com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|1124|1131|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|1138|1145|UNKNOWN|field|com.darwinreforged.pweather.Core.Weather|UNKNOWN
+      @|com\darwinreforged\pweather\Core.java|1155|1160|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\Core.java|1169|1176|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Core.java|1185|1194|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\Core.java|1203|1217|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\Core.java|1256|1263|Integer|class|java.lang.Integer
+      @|com\darwinreforged\pweather\Core.java|1265|1272|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|1248|1255|HashMap|class|java.util.HashMap
+      @|com\darwinreforged\pweather\Core.java|1248|1255|HashMap|class|java.util.HashMap
+      @|com\darwinreforged\pweather\Core.java|1256|1263|Integer|class|java.lang.Integer
+      @|com\darwinreforged\pweather\Core.java|1265|1272|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|1274|1277|map|field|com.darwinreforged.pweather.Core.Weather|map|
+      @|com\darwinreforged\pweather\Core.java|1284|1291|HashMap|class|java.util.HashMap
+      @|com\darwinreforged\pweather\Core.java|1294|1300|values|method|com.darwinreforged.pweather.Core.Weather|values|()[Lcom/darwinreforged/pweather/Core$Weather;
+      Field: Array Length, skipping
+      @|com\darwinreforged\pweather\Core.java|1344|1351|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|1362|1368|values|method|com.darwinreforged.pweather.Core.Weather|values|()[Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Core.java|1372|1375|map|field|com.darwinreforged.pweather.Core.Weather|map
+      @|com\darwinreforged\pweather\Core.java|1376|1379|put|method|java.util.Map|put|(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Core.java|1388|1393|value|field|com.darwinreforged.pweather.Core.Weather|value
+      @|com\darwinreforged\pweather\Core.java|1428|1433|value|field|com.darwinreforged.pweather.Core.Weather|value|
+      Method Start: Weather(I)V
+         @|com\darwinreforged\pweather\Core.java|1451|1456|value|param|com.darwinreforged.pweather.Core.Weather|Weather|(I)V|value|0
+         @|com\darwinreforged\pweather\Core.java|1439|1446|Weather|method|com.darwinreforged.pweather.Core.Weather|Weather|(I)V
+         @|com\darwinreforged\pweather\Core.java|1470|1475|value|field|com.darwinreforged.pweather.Core.Weather|value
+         @|com\darwinreforged\pweather\Core.java|1479|1484|value|param|com.darwinreforged.pweather.Core.Weather|Weather|(I)V|value|0
+      Method End: Weather(I)V
+      Method Start: getValue()I
+         @|com\darwinreforged\pweather\Core.java|1508|1516|getValue|method|com.darwinreforged.pweather.Core.Weather|getValue|()I
+         @|com\darwinreforged\pweather\Core.java|1538|1543|value|field|com.darwinreforged.pweather.Core.Weather|value
+      Method End: getValue()I
+      Method Start: of(I)Lcom/darwinreforged/pweather/Core$Weather;
+         @|com\darwinreforged\pweather\Core.java|1585|1590|value|param|com.darwinreforged.pweather.Core.Weather|of|(I)Lcom/darwinreforged/pweather/Core$Weather;|value|0
+         @|com\darwinreforged\pweather\Core.java|1570|1577|Weather|class|com.darwinreforged.pweather.Core.Weather
+         @|com\darwinreforged\pweather\Core.java|1578|1580|of|method|com.darwinreforged.pweather.Core.Weather|of|(I)Lcom/darwinreforged/pweather/Core$Weather;
+         @|com\darwinreforged\pweather\Core.java|1600|1607|Weather|class|com.darwinreforged.pweather.Core.Weather
+         @|com\darwinreforged\pweather\Core.java|1618|1621|map|field|com.darwinreforged.pweather.Core.Weather|map
+         @|com\darwinreforged\pweather\Core.java|1622|1625|get|method|java.util.Map|get|(Ljava/lang/Object;)Ljava/lang/Object;
+         @|com\darwinreforged\pweather\Core.java|1626|1631|value|param|com.darwinreforged.pweather.Core.Weather|of|(I)Lcom/darwinreforged/pweather/Core$Weather;|value|0
+         @|com\darwinreforged\pweather\Core.java|1680|1704|IllegalArgumentException|class|java.lang.IllegalArgumentException
+         @|com\darwinreforged\pweather\Core.java|1733|1738|value|param|com.darwinreforged.pweather.Core.Weather|of|(I)Lcom/darwinreforged/pweather/Core$Weather;|value|0
+      Method End: of(I)Lcom/darwinreforged/pweather/Core$Weather;
+   Enum End  : com.darwinreforged.pweather.Core.Weather
+   Method Start: parseWeather(Ljava/lang/String;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Core.java|1827|1832|value|param|com.darwinreforged.pweather.Core|parseWeather|(Ljava/lang/String;)Lcom/darwinreforged/pweather/Core$Weather;|value|0
+      @|com\darwinreforged\pweather\Core.java|1799|1806|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|1807|1819|parseWeather|method|com.darwinreforged.pweather.Core|parseWeather|(Ljava/lang/String;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Core.java|1820|1826|String|class|java.lang.String
+      @|com\darwinreforged\pweather\Core.java|1848|1853|value|param|com.darwinreforged.pweather.Core|parseWeather|(Ljava/lang/String;)Lcom/darwinreforged/pweather/Core$Weather;|value|0
+      @|com\darwinreforged\pweather\Core.java|1854|1865|toLowerCase|method|java.lang.String|toLowerCase|()Ljava/lang/String;
+      @|com\darwinreforged\pweather\Core.java|1988|1995|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|1996|2003|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Core.java|2067|2074|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|2075|2084|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\Core.java|2178|2185|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|2186|2200|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\Core.java|2297|2304|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|2305|2310|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\Core.java|2343|2350|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|2351|2358|UNKNOWN|field|com.darwinreforged.pweather.Core.Weather|UNKNOWN
+   Method End: parseWeather(Ljava/lang/String;)Lcom/darwinreforged/pweather/Core$Weather;
+   @|com\darwinreforged\pweather\Core.java|2396|2400|UUID|class|java.util.UUID
+   @|com\darwinreforged\pweather\Core.java|2402|2409|Weather|class|com.darwinreforged.pweather.Core.Weather
+   @|com\darwinreforged\pweather\Core.java|2388|2395|HashMap|class|java.util.HashMap
+   @|com\darwinreforged\pweather\Core.java|2388|2395|HashMap|class|java.util.HashMap
+   @|com\darwinreforged\pweather\Core.java|2396|2400|UUID|class|java.util.UUID
+   @|com\darwinreforged\pweather\Core.java|2402|2409|Weather|class|com.darwinreforged.pweather.Core.Weather
+   @|com\darwinreforged\pweather\Core.java|2411|2424|playerWeather|field|com.darwinreforged.pweather.Core|playerWeather|
+   @|com\darwinreforged\pweather\Core.java|2431|2438|HashMap|class|java.util.HashMap
+   @|com\darwinreforged\pweather\Core.java|2471|2475|UUID|class|java.util.UUID
+   @|com\darwinreforged\pweather\Core.java|2461|2470|ArrayList|class|java.util.ArrayList
+   @|com\darwinreforged\pweather\Core.java|2461|2470|ArrayList|class|java.util.ArrayList
+   @|com\darwinreforged\pweather\Core.java|2471|2475|UUID|class|java.util.UUID
+   @|com\darwinreforged\pweather\Core.java|2477|2493|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers|
+   @|com\darwinreforged\pweather\Core.java|2500|2509|ArrayList|class|java.util.ArrayList
+   @|com\darwinreforged\pweather\Core.java|2542|2546|UUID|class|java.util.UUID
+   @|com\darwinreforged\pweather\Core.java|2532|2541|ArrayList|class|java.util.ArrayList
+   @|com\darwinreforged\pweather\Core.java|2532|2541|ArrayList|class|java.util.ArrayList
+   @|com\darwinreforged\pweather\Core.java|2542|2546|UUID|class|java.util.UUID
+   @|com\darwinreforged\pweather\Core.java|2548|2562|toggledPlayers|field|com.darwinreforged.pweather.Core|toggledPlayers|
+   @|com\darwinreforged\pweather\Core.java|2569|2578|ArrayList|class|java.util.ArrayList
+   @|com\darwinreforged\pweather\Core.java|2609|2625|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff|
+   Method Start: addToPlayerWeather(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Core.java|2681|2685|uuid|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|2695|2702|weather|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|weather|1
+      @|com\darwinreforged\pweather\Core.java|2657|2675|addToPlayerWeather|method|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Core.java|2676|2680|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|2687|2694|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|2710|2723|playerWeather|field|com.darwinreforged.pweather.Core|playerWeather
+      @|com\darwinreforged\pweather\Core.java|2724|2727|put|method|java.util.Map|put|(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Core.java|2728|2732|uuid|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|2734|2741|weather|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|weather|1
+      @|com\darwinreforged\pweather\Core.java|2752|2759|weather|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|weather|1
+      @|com\darwinreforged\pweather\Core.java|2763|2770|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|2771|2785|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\Core.java|2789|2796|weather|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|weather|1
+      @|com\darwinreforged\pweather\Core.java|2800|2807|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|2808|2817|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\Core.java|2827|2845|addLightningPlayer|method|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|2846|2850|uuid|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|2876|2897|removeLightningPlayer|method|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|2898|2902|uuid|param|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+   Method End: addToPlayerWeather(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+   Method Start: removePlayerWeather(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|2962|2966|uuid|param|com.darwinreforged.pweather.Core|removePlayerWeather|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|2937|2956|removePlayerWeather|method|com.darwinreforged.pweather.Core|removePlayerWeather|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|2957|2961|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|2974|2987|playerWeather|field|com.darwinreforged.pweather.Core|playerWeather
+      @|com\darwinreforged\pweather\Core.java|2988|2994|remove|method|java.util.Map|remove|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Core.java|2995|2999|uuid|param|com.darwinreforged.pweather.Core|removePlayerWeather|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3006|3027|removeLightningPlayer|method|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|3028|3032|uuid|param|com.darwinreforged.pweather.Core|removePlayerWeather|(Ljava/util/UUID;)V|uuid|0
+   Method End: removePlayerWeather(Ljava/util/UUID;)V
+   Method Start: playerWeatherContains(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Core.java|3091|3095|uuid|param|com.darwinreforged.pweather.Core|playerWeatherContains|(Ljava/util/UUID;)Z|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3064|3085|playerWeatherContains|method|com.darwinreforged.pweather.Core|playerWeatherContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Core.java|3086|3090|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|3110|3123|playerWeather|field|com.darwinreforged.pweather.Core|playerWeather
+      @|com\darwinreforged\pweather\Core.java|3124|3135|containsKey|method|java.util.Map|containsKey|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|3136|3140|uuid|param|com.darwinreforged.pweather.Core|playerWeatherContains|(Ljava/util/UUID;)Z|uuid|0
+   Method End: playerWeatherContains(Ljava/util/UUID;)Z
+   Method Start: getPlayerWeatherUUIDs()Ljava/util/Set;
+      @|com\darwinreforged\pweather\Core.java|3164|3167|Set|class|java.util.Set
+      @|com\darwinreforged\pweather\Core.java|3168|3172|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|3174|3195|getPlayerWeatherUUIDs|method|com.darwinreforged.pweather.Core|getPlayerWeatherUUIDs|()Ljava/util/Set;
+      @|com\darwinreforged\pweather\Core.java|3210|3223|playerWeather|field|com.darwinreforged.pweather.Core|playerWeather
+      @|com\darwinreforged\pweather\Core.java|3224|3230|keySet|method|java.util.Map|keySet|()Ljava/util/Set;
+   Method End: getPlayerWeatherUUIDs()Ljava/util/Set;
+   Method Start: getPlayersWeather(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Core.java|3286|3290|uuid|param|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3255|3262|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|3263|3280|getPlayersWeather|method|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Core.java|3281|3285|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|3297|3304|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|3315|3328|playerWeather|field|com.darwinreforged.pweather.Core|playerWeather
+      @|com\darwinreforged\pweather\Core.java|3329|3332|get|method|java.util.Map|get|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Core.java|3333|3337|uuid|param|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3374|3381|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|3382|3387|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+   Method End: getPlayersWeather(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+   Method Start: addLightningPlayer(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|3461|3465|uuid|param|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3437|3455|addLightningPlayer|method|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|3456|3460|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|3478|3494|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+      @|com\darwinreforged\pweather\Core.java|3495|3503|contains|method|java.util.Collection|contains|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|3504|3508|uuid|param|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3519|3535|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+      @|com\darwinreforged\pweather\Core.java|3536|3539|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|3540|3544|uuid|param|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3558|3574|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+      @|com\darwinreforged\pweather\Core.java|3575|3579|size|method|java.util.Collection|size|()I
+      @|com\darwinreforged\pweather\Core.java|3721|3737|LightningManager|class|com.darwinreforged.pweather.LightningManager
+      @|com\darwinreforged\pweather\Core.java|3738|3761|startlightningScheduler|method|com.darwinreforged.pweather.LightningManager|startlightningScheduler|()V
+   Method End: addLightningPlayer(Ljava/util/UUID;)V
+   Method Start: removeLightningPlayer(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|3832|3836|uuid|param|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3805|3826|removeLightningPlayer|method|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|3827|3831|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|3848|3864|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+      @|com\darwinreforged\pweather\Core.java|3865|3873|contains|method|java.util.Collection|contains|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|3874|3878|uuid|param|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3889|3905|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+      @|com\darwinreforged\pweather\Core.java|3906|3912|remove|method|java.util.Collection|remove|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|3913|3917|uuid|param|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|3931|3947|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+      @|com\darwinreforged\pweather\Core.java|3948|3952|size|method|java.util.Collection|size|()I
+      @|com\darwinreforged\pweather\Core.java|4064|4080|LightningManager|class|com.darwinreforged.pweather.LightningManager
+      @|com\darwinreforged\pweather\Core.java|4081|4103|stopLightningScheduler|method|com.darwinreforged.pweather.LightningManager|stopLightningScheduler|()V
+   Method End: removeLightningPlayer(Ljava/util/UUID;)V
+   Method Start: toggledPlayersContains(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Core.java|4178|4182|uuid|param|com.darwinreforged.pweather.Core|toggledPlayersContains|(Ljava/util/UUID;)Z|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4150|4172|toggledPlayersContains|method|com.darwinreforged.pweather.Core|toggledPlayersContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Core.java|4173|4177|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|4197|4211|toggledPlayers|field|com.darwinreforged.pweather.Core|toggledPlayers
+      @|com\darwinreforged\pweather\Core.java|4212|4220|contains|method|java.util.Collection|contains|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|4221|4225|uuid|param|com.darwinreforged.pweather.Core|toggledPlayersContains|(Ljava/util/UUID;)Z|uuid|0
+   Method End: toggledPlayersContains(Ljava/util/UUID;)Z
+   Method Start: removeToggledPlayer(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|4279|4283|uuid|param|com.darwinreforged.pweather.Core|removeToggledPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4254|4273|removeToggledPlayer|method|com.darwinreforged.pweather.Core|removeToggledPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|4274|4278|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|4291|4305|toggledPlayers|field|com.darwinreforged.pweather.Core|toggledPlayers
+      @|com\darwinreforged\pweather\Core.java|4306|4312|remove|method|java.util.Collection|remove|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|4313|4317|uuid|param|com.darwinreforged.pweather.Core|removeToggledPlayer|(Ljava/util/UUID;)V|uuid|0
+   Method End: removeToggledPlayer(Ljava/util/UUID;)V
+   Method Start: addToggledPlayer(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|4368|4372|uuid|param|com.darwinreforged.pweather.Core|addToggledPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4346|4362|addToggledPlayer|method|com.darwinreforged.pweather.Core|addToggledPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Core.java|4363|4367|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|4385|4399|toggledPlayers|field|com.darwinreforged.pweather.Core|toggledPlayers
+      @|com\darwinreforged\pweather\Core.java|4400|4408|contains|method|java.util.Collection|contains|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|4409|4413|uuid|param|com.darwinreforged.pweather.Core|addToggledPlayer|(Ljava/util/UUID;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4424|4438|toggledPlayers|field|com.darwinreforged.pweather.Core|toggledPlayers
+      @|com\darwinreforged\pweather\Core.java|4439|4442|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|4443|4447|uuid|param|com.darwinreforged.pweather.Core|addToggledPlayer|(Ljava/util/UUID;)V|uuid|0
+   Method End: addToggledPlayer(Ljava/util/UUID;)V
+   Method Start: lightningPlayersContains(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Core.java|4515|4519|uuid|param|com.darwinreforged.pweather.Core|lightningPlayersContains|(Ljava/util/UUID;)Z|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4485|4509|lightningPlayersContains|method|com.darwinreforged.pweather.Core|lightningPlayersContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Core.java|4510|4514|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|4534|4550|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+      @|com\darwinreforged\pweather\Core.java|4551|4559|contains|method|java.util.Collection|contains|(Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\Core.java|4560|4564|uuid|param|com.darwinreforged.pweather.Core|lightningPlayersContains|(Ljava/util/UUID;)Z|uuid|0
+   Method End: lightningPlayersContains(Ljava/util/UUID;)Z
+   Method Start: getLightningPlayers()Ljava/util/ArrayList;
+      @|com\darwinreforged\pweather\Core.java|4588|4597|ArrayList|class|java.util.ArrayList
+      @|com\darwinreforged\pweather\Core.java|4598|4602|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|4604|4623|getLightningPlayers|method|com.darwinreforged.pweather.Core|getLightningPlayers|()Ljava/util/ArrayList;
+      @|com\darwinreforged\pweather\Core.java|4638|4654|lightningPlayers|field|com.darwinreforged.pweather.Core|lightningPlayers
+   Method End: getLightningPlayers()Ljava/util/ArrayList;
+   Method Start: sendPlayerWeatherPacket(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Core.java|4711|4715|uuid|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4725|4732|weather|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|weather|1
+      @|com\darwinreforged\pweather\Core.java|4682|4705|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Core.java|4706|4710|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|4717|4724|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|4742|4765|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V
+      @|com\darwinreforged\pweather\Core.java|4766|4770|uuid|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4772|4779|weather|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V|weather|1
+   Method End: sendPlayerWeatherPacket(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+   Method Start: sendPlayerWeatherPacket(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V
+      @|com\darwinreforged\pweather\Core.java|4844|4848|uuid|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|4858|4865|weather|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|weather|1
+      @|com\darwinreforged\pweather\Core.java|4875|4882|overide|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|overide|2
+      @|com\darwinreforged\pweather\Core.java|4815|4838|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V
+      @|com\darwinreforged\pweather\Core.java|4839|4843|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Core.java|4850|4857|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Core.java|4895|4911|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\Core.java|4916|4923|overide|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|overide|2
+      @|com\darwinreforged\pweather\Core.java|4932|4940|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\Core.java|4941|4947|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\Core.java|4966|4972|Sponge|class|org.spongepowered.api.Sponge
+      @|com\darwinreforged\pweather\Core.java|4973|4982|getServer|method|org.spongepowered.api.Sponge|getServer|()Lorg/spongepowered/api/Server;
+      @|com\darwinreforged\pweather\Core.java|4985|4994|getPlayer|method|org.spongepowered.api.Server|getPlayer|(Ljava/util/UUID;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\Core.java|4995|4999|uuid|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|5023|5032|ifPresent|method|java.util.Optional|ifPresent|(Ljava/util/function/Consumer;)V
+      @|com\darwinreforged\pweather\Core.java|5043|5054|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\Core.java|5055|5061|player|param|java.util.function.Consumer<org.spongepowered.api.entity.living.player.Player>|accept|(Lorg/spongepowered/api/entity/living/player/Player;)V|player|-1
+      @|com\darwinreforged\pweather\Core.java|5135|5143|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\Core.java|5144|5154|PacketGate|class|eu.crushedpixel.sponge.packetgate.api.registry.PacketGate
+      @|com\darwinreforged\pweather\Core.java|5177|5183|Sponge|class|org.spongepowered.api.Sponge
+      @|com\darwinreforged\pweather\Core.java|5184|5201|getServiceManager|method|org.spongepowered.api.Sponge|getServiceManager|()Lorg/spongepowered/api/service/ServiceManager;
+      @|com\darwinreforged\pweather\Core.java|5204|5211|provide|method|org.spongepowered.api.service.ServiceManager|provide|(Ljava/lang/Class;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\Core.java|5212|5222|PacketGate|class|eu.crushedpixel.sponge.packetgate.api.registry.PacketGate
+      @|com\darwinreforged\pweather\Core.java|5258|5267|isPresent|method|java.util.Optional|isPresent|()Z
+      @|com\darwinreforged\pweather\Core.java|5279|5289|PacketGate|class|eu.crushedpixel.sponge.packetgate.api.registry.PacketGate
+      @|com\darwinreforged\pweather\Core.java|5322|5325|get|method|java.util.Optional|get|()Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Core.java|5335|5343|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\Core.java|5344|5360|PacketConnection|class|eu.crushedpixel.sponge.packetgate.api.registry.PacketConnection
+      @|com\darwinreforged\pweather\Core.java|5394|5414|connectionByUniqueId|method|eu.crushedpixel.sponge.packetgate.api.registry.PacketGate|connectionByUniqueId|(Ljava/util/UUID;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\Core.java|5415|5419|uuid|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|5451|5460|isPresent|method|java.util.Optional|isPresent|()Z
+      @|com\darwinreforged\pweather\Core.java|5480|5496|PacketConnection|class|eu.crushedpixel.sponge.packetgate.api.registry.PacketConnection
+      @|com\darwinreforged\pweather\Core.java|5529|5532|get|method|java.util.Optional|get|()Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Core.java|5596|5603|weather|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|weather|1
+      @|com\darwinreforged\pweather\Core.java|5630|5637|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Core.java|5778|5788|sendPacket|method|eu.crushedpixel.sponge.packetgate.api.registry.PacketConnection|sendPacket|(Lnet/minecraft/network/Packet;)V
+      @|com\darwinreforged\pweather\Core.java|5793|5815|SPacketChangeGameState|class|net.minecraft.network.play.server.SPacketChangeGameState
+      @|com\darwinreforged\pweather\Core.java|5862|5867|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\Core.java|5953|5963|sendPacket|method|eu.crushedpixel.sponge.packetgate.api.registry.PacketConnection|sendPacket|(Lnet/minecraft/network/Packet;)V
+      @|com\darwinreforged\pweather\Core.java|5968|5990|SPacketChangeGameState|class|net.minecraft.network.play.server.SPacketChangeGameState
+      @|com\darwinreforged\pweather\Core.java|6036|6045|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\Core.java|6059|6067|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\Core.java|6068|6076|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\Core.java|6106|6132|determineLightningPosition|method|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Ljava/util/UUID;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\Core.java|6133|6137|uuid|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|6153|6168|MinecraftServer|class|net.minecraft.server.MinecraftServer
+      @|com\darwinreforged\pweather\Core.java|6187|6203|FMLCommonHandler|class|net.minecraftforge.fml.common.FMLCommonHandler
+      @|com\darwinreforged\pweather\Core.java|6204|6212|instance|method|net.minecraftforge.fml.common.FMLCommonHandler|instance|()Lnet/minecraftforge/fml/common/FMLCommonHandler;
+      @|com\darwinreforged\pweather\Core.java|6215|6241|getMinecraftServerInstance|method|net.minecraftforge.fml.common.FMLCommonHandler|getMinecraftServerInstance|()Lnet/minecraft/server/MinecraftServer;
+      @|com\darwinreforged\pweather\Core.java|6306|6316|PlayerList|class|net.minecraft.server.management.PlayerList
+      @|com\darwinreforged\pweather\Core.java|6346|6359|getPlayerList|method|net.minecraft.server.MinecraftServer|getPlayerList|()Lnet/minecraft/server/management/PlayerList;
+      @|com\darwinreforged\pweather\Core.java|6489|6514|net.minecraft.world.World|class|net.minecraft.world.World
+      @|com\darwinreforged\pweather\Core.java|6539|6554|getPlayerByUUID|method|net.minecraft.server.management.PlayerList|getPlayerByUUID|(Ljava/util/UUID;)Lnet/minecraft/entity/player/EntityPlayerMP;
+      @|com\darwinreforged\pweather\Core.java|6555|6559|uuid|param|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V|uuid|0
+      @|com\darwinreforged\pweather\Core.java|6561|6566|world|field|net.minecraft.entity.Entity|world
+      @|com\darwinreforged\pweather\Core.java|6610|6619|isPresent|method|java.util.Optional|isPresent|()Z
+      @|com\darwinreforged\pweather\Core.java|6673|6681|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\Core.java|6728|6731|get|method|java.util.Optional|get|()Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Core.java|6749|6768|EntityLightningBolt|class|net.minecraft.entity.effect.EntityLightningBolt
+      @|com\darwinreforged\pweather\Core.java|6789|6808|EntityLightningBolt|class|net.minecraft.entity.effect.EntityLightningBolt
+      @|com\darwinreforged\pweather\Core.java|6861|6865|getX|method|com.flowpowered.math.vector.Vector3d|getX|()D
+      @|com\darwinreforged\pweather\Core.java|6887|6891|getY|method|com.flowpowered.math.vector.Vector3d|getY|()D
+      @|com\darwinreforged\pweather\Core.java|6913|6917|getZ|method|com.flowpowered.math.vector.Vector3d|getZ|()D
+      @|com\darwinreforged\pweather\Core.java|6955|6965|sendPacket|method|eu.crushedpixel.sponge.packetgate.api.registry.PacketConnection|sendPacket|(Lnet/minecraft/network/Packet;)V
+      @|com\darwinreforged\pweather\Core.java|6970|6994|SPacketSpawnGlobalEntity|class|net.minecraft.network.play.server.SPacketSpawnGlobalEntity
+   Method End: sendPlayerWeatherPacket(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V
+   Method Start: sendMessage(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\Core.java|7095|7101|player|param|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V|player|0
+      @|com\darwinreforged\pweather\Core.java|7110|7117|message|param|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V|message|1
+      @|com\darwinreforged\pweather\Core.java|7076|7087|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\Core.java|7088|7094|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\Core.java|7103|7109|String|class|java.lang.String
+      @|com\darwinreforged\pweather\Core.java|7125|7131|player|param|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V|player|0
+      @|com\darwinreforged\pweather\Core.java|7132|7143|sendMessage|method|org.spongepowered.api.text.channel.MessageReceiver|sendMessage|(Lorg/spongepowered/api/text/Text;)V
+      @|com\darwinreforged\pweather\Core.java|7153|7157|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\Core.java|7158|7160|of|method|org.spongepowered.api.text.Text|of|([Ljava/lang/Object;)Lorg/spongepowered/api/text/Text;
+      @|com\darwinreforged\pweather\Core.java|7174|7184|TextColors|class|org.spongepowered.api.text.format.TextColors
+      @|com\darwinreforged\pweather\Core.java|7185|7189|GRAY|field|org.spongepowered.api.text.format.TextColors|GRAY
+      @|com\darwinreforged\pweather\Core.java|7222|7232|TextColors|class|org.spongepowered.api.text.format.TextColors
+      @|com\darwinreforged\pweather\Core.java|7233|7237|AQUA|field|org.spongepowered.api.text.format.TextColors|AQUA
+      @|com\darwinreforged\pweather\Core.java|7251|7258|message|param|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V|message|1
+   Method End: sendMessage(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+Class End  : com.darwinreforged.pweather.Core
+endProcessing "com\darwinreforged\pweather\Core.java"
+
+startProcessing "com\darwinreforged\pweather\LightningManager.java" md5: 82cf6ccc7516ff671698006c37b0c77e
+Cache Hit!
+    Compile Error! Pb(84) This static method of interface Task can only be accessed as Task.builder
+    Compile Error! Pb(646) Method references are allowed only at source level 1.8 or above
+@|com\darwinreforged\pweather\LightningManager.java|8|35|com.darwinreforged.pweather|package|com.darwinreforged.pweather|(file)
+Class Start: com.darwinreforged.pweather.LightningManager
+   @|com\darwinreforged\pweather\LightningManager.java|503|519|LightningManager|class|com.darwinreforged.pweather.LightningManager
+   @|com\darwinreforged\pweather\LightningManager.java|542|546|Task|class|org.spongepowered.api.scheduler.Task
+   @|com\darwinreforged\pweather\LightningManager.java|542|546|Task|class|org.spongepowered.api.scheduler.Task
+   @|com\darwinreforged\pweather\LightningManager.java|547|560|lightningTask|field|com.darwinreforged.pweather.LightningManager|lightningTask|
+   @|com\darwinreforged\pweather\LightningManager.java|591|603|MAX_DISTANCE|field|com.darwinreforged.pweather.LightningManager|MAX_DISTANCE|
+   @|com\darwinreforged\pweather\LightningManager.java|639|658|LIGHTNING_FREQUENCY|field|com.darwinreforged.pweather.LightningManager|LIGHTNING_FREQUENCY|
+   @|com\darwinreforged\pweather\LightningManager.java|708|724|LIGHTNING_CHANCE|field|com.darwinreforged.pweather.LightningManager|LIGHTNING_CHANCE|
+   Method Start: highestBlockAtXZ(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I
+      @|com\darwinreforged\pweather\LightningManager.java|777|778|x|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|x|0
+      @|com\darwinreforged\pweather\LightningManager.java|784|785|z|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|z|1
+      @|com\darwinreforged\pweather\LightningManager.java|793|798|world|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|world|2
+      @|com\darwinreforged\pweather\LightningManager.java|807|813|player|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|player|3
+      @|com\darwinreforged\pweather\LightningManager.java|756|772|highestBlockAtXZ|method|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I
+      @|com\darwinreforged\pweather\LightningManager.java|787|792|World|class|org.spongepowered.api.world.World
+      @|com\darwinreforged\pweather\LightningManager.java|800|806|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\LightningManager.java|868|876|BlockRay|class|org.spongepowered.api.util.blockray.BlockRay
+      @|com\darwinreforged\pweather\LightningManager.java|877|882|World|class|org.spongepowered.api.world.World
+      @|com\darwinreforged\pweather\LightningManager.java|895|903|BlockRay|class|org.spongepowered.api.util.blockray.BlockRay
+      @|com\darwinreforged\pweather\LightningManager.java|904|908|from|method|org.spongepowered.api.util.blockray.BlockRay|from|(Lorg/spongepowered/api/world/extent/Extent;Lcom/flowpowered/math/vector/Vector3d;)Lorg/spongepowered/api/util/blockray/BlockRay$BlockRayBuilder;
+      @|com\darwinreforged\pweather\LightningManager.java|909|914|world|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|world|2
+      @|com\darwinreforged\pweather\LightningManager.java|920|928|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\LightningManager.java|929|930|x|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|x|0
+      @|com\darwinreforged\pweather\LightningManager.java|950|951|z|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|z|1
+      @|com\darwinreforged\pweather\LightningManager.java|1026|1028|to|method|org.spongepowered.api.util.blockray.BlockRay.BlockRayBuilder|to|(Lcom/flowpowered/math/vector/Vector3d;)Lorg/spongepowered/api/util/blockray/BlockRay$BlockRayBuilder;
+      @|com\darwinreforged\pweather\LightningManager.java|1033|1041|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\LightningManager.java|1042|1043|x|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|x|0
+      @|com\darwinreforged\pweather\LightningManager.java|1048|1049|z|param|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I|z|1
+      @|com\darwinreforged\pweather\LightningManager.java|1069|1074|build|method|org.spongepowered.api.util.blockray.BlockRay.BlockRayBuilder|build|()Lorg/spongepowered/api/util/blockray/BlockRay;
+      @|com\darwinreforged\pweather\LightningManager.java|1104|1111|hasNext|method|java.util.Iterator|hasNext|()Z
+      @|com\darwinreforged\pweather\LightningManager.java|1137|1148|BlockRayHit|class|org.spongepowered.api.util.blockray.BlockRayHit
+      @|com\darwinreforged\pweather\LightningManager.java|1149|1154|World|class|org.spongepowered.api.world.World
+      @|com\darwinreforged\pweather\LightningManager.java|1171|1175|next|method|java.util.Iterator|next|()Ljava/lang/Object;
+      @|com\darwinreforged\pweather\LightningManager.java|1242|1253|getPosition|method|org.spongepowered.api.util.blockray.BlockRayHit|getPosition|()Lcom/flowpowered/math/vector/Vector3d;
+      @|com\darwinreforged\pweather\LightningManager.java|1256|1265|getFloorY|method|com.flowpowered.math.vector.Vector3d|getFloorY|()I
+      @|com\darwinreforged\pweather\LightningManager.java|1303|1312|getBlockY|method|org.spongepowered.api.util.blockray.BlockRayHit|getBlockY|()I
+   Method End: highestBlockAtXZ(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I
+   Method Start: determineLightningPosition(Ljava/util/UUID;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\LightningManager.java|1523|1527|uuid|param|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Ljava/util/UUID;)Ljava/util/Optional;|uuid|0
+      @|com\darwinreforged\pweather\LightningManager.java|1472|1480|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\LightningManager.java|1481|1489|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\LightningManager.java|1491|1517|determineLightningPosition|method|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Ljava/util/UUID;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\LightningManager.java|1518|1522|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\LightningManager.java|1543|1551|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\LightningManager.java|1552|1558|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\LightningManager.java|1577|1583|Sponge|class|org.spongepowered.api.Sponge
+      @|com\darwinreforged\pweather\LightningManager.java|1584|1593|getServer|method|org.spongepowered.api.Sponge|getServer|()Lorg/spongepowered/api/Server;
+      @|com\darwinreforged\pweather\LightningManager.java|1596|1605|getPlayer|method|org.spongepowered.api.Server|getPlayer|(Ljava/util/UUID;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\LightningManager.java|1606|1610|uuid|param|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Ljava/util/UUID;)Ljava/util/Optional;|uuid|0
+      @|com\darwinreforged\pweather\LightningManager.java|1640|1649|isPresent|method|java.util.Optional|isPresent|()Z
+      @|com\darwinreforged\pweather\LightningManager.java|1676|1682|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\LightningManager.java|1707|1710|get|method|java.util.Optional|get|()Ljava/lang/Object;
+      @|com\darwinreforged\pweather\LightningManager.java|1733|1759|determineLightningPosition|method|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\LightningManager.java|1794|1802|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\LightningManager.java|1803|1808|empty|method|java.util.Optional|empty|()Ljava/util/Optional;
+   Method End: determineLightningPosition(Ljava/util/UUID;)Ljava/util/Optional;
+   Method Start: determineLightningPosition(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\LightningManager.java|1912|1918|player|param|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;|player|0
+      @|com\darwinreforged\pweather\LightningManager.java|1859|1867|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\LightningManager.java|1868|1876|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\LightningManager.java|1878|1904|determineLightningPosition|method|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\LightningManager.java|1905|1911|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\LightningManager.java|1935|1940|World|class|org.spongepowered.api.world.World
+      @|com\darwinreforged\pweather\LightningManager.java|1949|1955|player|param|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;|player|0
+      @|com\darwinreforged\pweather\LightningManager.java|1956|1964|getWorld|method|org.spongepowered.api.world.Locatable|getWorld|()Lorg/spongepowered/api/world/World;
+      @|com\darwinreforged\pweather\LightningManager.java|1976|1984|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\LightningManager.java|1996|2002|player|param|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;|player|0
+      @|com\darwinreforged\pweather\LightningManager.java|2003|2015|getTransform|method|org.spongepowered.api.entity.Entity|getTransform|()Lorg/spongepowered/api/entity/Transform;
+      @|com\darwinreforged\pweather\LightningManager.java|2018|2029|getPosition|method|org.spongepowered.api.entity.Transform|getPosition|()Lcom/flowpowered/math/vector/Vector3d;
+      @|com\darwinreforged\pweather\LightningManager.java|2042|2048|Random|class|java.util.Random
+      @|com\darwinreforged\pweather\LightningManager.java|2062|2068|Random|class|java.util.Random
+      @|com\darwinreforged\pweather\LightningManager.java|2203|2212|getFloorX|method|com.flowpowered.math.vector.Vector3d|getFloorX|()I
+      @|com\darwinreforged\pweather\LightningManager.java|2224|2231|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com\darwinreforged\pweather\LightningManager.java|2236|2248|MAX_DISTANCE|field|com.darwinreforged.pweather.LightningManager|MAX_DISTANCE
+      @|com\darwinreforged\pweather\LightningManager.java|2252|2264|MAX_DISTANCE|field|com.darwinreforged.pweather.LightningManager|MAX_DISTANCE
+      @|com\darwinreforged\pweather\LightningManager.java|2294|2303|getFloorZ|method|com.flowpowered.math.vector.Vector3d|getFloorZ|()I
+      @|com\darwinreforged\pweather\LightningManager.java|2315|2322|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com\darwinreforged\pweather\LightningManager.java|2327|2339|MAX_DISTANCE|field|com.darwinreforged.pweather.LightningManager|MAX_DISTANCE
+      @|com\darwinreforged\pweather\LightningManager.java|2343|2355|MAX_DISTANCE|field|com.darwinreforged.pweather.LightningManager|MAX_DISTANCE
+      @|com\darwinreforged\pweather\LightningManager.java|2376|2392|highestBlockAtXZ|method|com.darwinreforged.pweather.LightningManager|highestBlockAtXZ|(IILorg/spongepowered/api/world/World;Lorg/spongepowered/api/entity/living/player/Player;)I
+      @|com\darwinreforged\pweather\LightningManager.java|2412|2418|player|param|com.darwinreforged.pweather.LightningManager|determineLightningPosition|(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;|player|0
+      @|com\darwinreforged\pweather\LightningManager.java|2546|2554|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\LightningManager.java|2555|2560|empty|method|java.util.Optional|empty|()Ljava/util/Optional;
+      @|com\darwinreforged\pweather\LightningManager.java|2594|2602|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\LightningManager.java|2633|2641|Vector3d|class|com.flowpowered.math.vector.Vector3d
+      @|com\darwinreforged\pweather\LightningManager.java|2680|2688|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\LightningManager.java|2689|2691|of|method|java.util.Optional|of|(Ljava/lang/Object;)Ljava/util/Optional;
+   Method End: determineLightningPosition(Lorg/spongepowered/api/entity/living/player/Player;)Ljava/util/Optional;
+   Method Start: startlightningScheduler()V
+      @|com\darwinreforged\pweather\LightningManager.java|2749|2772|startlightningScheduler|method|com.darwinreforged.pweather.LightningManager|startlightningScheduler|()V
+      @|com\darwinreforged\pweather\LightningManager.java|2784|2797|lightningTask|field|com.darwinreforged.pweather.LightningManager|lightningTask
+      @|com\darwinreforged\pweather\LightningManager.java|2800|2804|Task|class|org.spongepowered.api.scheduler.Task
+      @|com\darwinreforged\pweather\LightningManager.java|2805|2812|builder|method|org.spongepowered.api.scheduler.Task|builder|()Lorg/spongepowered/api/scheduler/Task$Builder;
+      ERROR SimpleName: name null
+      ERROR SimpleName: interval null
+      @|com\darwinreforged\pweather\LightningManager.java|2889|2908|LIGHTNING_FREQUENCY|field|com.darwinreforged.pweather.LightningManager|LIGHTNING_FREQUENCY
+      @|com\darwinreforged\pweather\LightningManager.java|2910|2918|TimeUnit|class|java.util.concurrent.TimeUnit
+      @|com\darwinreforged\pweather\LightningManager.java|2919|2926|SECONDS|field|java.util.concurrent.TimeUnit|SECONDS
+      ERROR SimpleName: execute null
+      @|com\darwinreforged\pweather\LightningManager.java|2949|2965|LightningManager|class|com.darwinreforged.pweather.LightningManager
+      @|com\darwinreforged\pweather\LightningManager.java|2967|2982|lightningMethod|method|com.darwinreforged.pweather.LightningManager|lightningMethod|()V
+      ERROR SimpleName: submit null
+      @|com\darwinreforged\pweather\LightningManager.java|3004|3017|WeatherPlugin|class|com.darwinreforged.pweather.WeatherPlugin
+      @|com\darwinreforged\pweather\LightningManager.java|3018|3027|getPlugin|method|com.darwinreforged.pweather.WeatherPlugin|getPlugin|()Lcom/darwinreforged/pweather/WeatherPlugin;
+   Method End: startlightningScheduler()V
+   Method Start: stopLightningScheduler()V
+      @|com\darwinreforged\pweather\LightningManager.java|3062|3084|stopLightningScheduler|method|com.darwinreforged.pweather.LightningManager|stopLightningScheduler|()V
+      @|com\darwinreforged\pweather\LightningManager.java|3100|3113|lightningTask|field|com.darwinreforged.pweather.LightningManager|lightningTask
+      @|com\darwinreforged\pweather\LightningManager.java|3145|3158|lightningTask|field|com.darwinreforged.pweather.LightningManager|lightningTask
+      @|com\darwinreforged\pweather\LightningManager.java|3159|3165|cancel|method|org.spongepowered.api.scheduler.Task|cancel|()Z
+      @|com\darwinreforged\pweather\LightningManager.java|3181|3194|lightningTask|field|com.darwinreforged.pweather.LightningManager|lightningTask
+   Method End: stopLightningScheduler()V
+   Method Start: lightningSchedulerStatus()Ljava/lang/String;
+      @|com\darwinreforged\pweather\LightningManager.java|3238|3244|String|class|java.lang.String
+      @|com\darwinreforged\pweather\LightningManager.java|3245|3269|lightningSchedulerStatus|method|com.darwinreforged.pweather.LightningManager|lightningSchedulerStatus|()Ljava/lang/String;
+      @|com\darwinreforged\pweather\LightningManager.java|3285|3298|lightningTask|field|com.darwinreforged.pweather.LightningManager|lightningTask
+      @|com\darwinreforged\pweather\LightningManager.java|3369|3373|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\LightningManager.java|3374|3393|getLightningPlayers|method|com.darwinreforged.pweather.Core|getLightningPlayers|()Ljava/util/ArrayList;
+      @|com\darwinreforged\pweather\LightningManager.java|3396|3400|size|method|java.util.Collection|size|()I
+      @|com\darwinreforged\pweather\LightningManager.java|3472|3476|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\LightningManager.java|3477|3496|getLightningPlayers|method|com.darwinreforged.pweather.Core|getLightningPlayers|()Ljava/util/ArrayList;
+      @|com\darwinreforged\pweather\LightningManager.java|3499|3503|size|method|java.util.Collection|size|()I
+   Method End: lightningSchedulerStatus()Ljava/lang/String;
+   Method Start: lightningMethod()V
+      @|com\darwinreforged\pweather\LightningManager.java|3551|3566|lightningMethod|method|com.darwinreforged.pweather.LightningManager|lightningMethod|()V
+      @|com\darwinreforged\pweather\LightningManager.java|3578|3584|Random|class|java.util.Random
+      @|com\darwinreforged\pweather\LightningManager.java|3598|3604|Random|class|java.util.Random
+      @|com\darwinreforged\pweather\LightningManager.java|3627|3636|nextFloat|method|java.util.Random|nextFloat|()F
+      @|com\darwinreforged\pweather\LightningManager.java|3641|3657|LIGHTNING_CHANCE|field|com.darwinreforged.pweather.LightningManager|LIGHTNING_CHANCE
+      @|com\darwinreforged\pweather\LightningManager.java|3678|3682|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\LightningManager.java|3690|3694|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\LightningManager.java|3695|3714|getLightningPlayers|method|com.darwinreforged.pweather.Core|getLightningPlayers|()Ljava/util/ArrayList;
+      @|com\darwinreforged\pweather\LightningManager.java|3736|3740|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\LightningManager.java|3741|3764|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\LightningManager.java|3771|3783|Core.Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\LightningManager.java|3784|3793|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+   Method End: lightningMethod()V
+Class End  : com.darwinreforged.pweather.LightningManager
+endProcessing "com\darwinreforged\pweather\LightningManager.java"
+
+startProcessing "com\darwinreforged\pweather\Listeners.java" md5: a5a0ed9aef08ef5f2fa39b3dc17e76b2
+Cache Hit!
+@|com\darwinreforged\pweather\Listeners.java|8|35|com.darwinreforged.pweather|package|com.darwinreforged.pweather|(file)
+Class Start: com.darwinreforged.pweather.Listeners
+   @|com\darwinreforged\pweather\Listeners.java|763|772|Listeners|class|com.darwinreforged.pweather.Listeners
+   Method Start: onPlotEnter(Lcom/plotsquared/sponge/events/PlayerEnterPlotEvent;)V
+      @|com\darwinreforged\pweather\Listeners.java|855|860|event|param|com.darwinreforged.pweather.Listeners|onPlotEnter|(Lcom/plotsquared/sponge/events/PlayerEnterPlotEvent;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|779|787|Listener|class|org.spongepowered.api.event.Listener
+      @|com\darwinreforged\pweather\Listeners.java|788|793|order|method|org.spongepowered.api.event.Listener|order|()Lorg/spongepowered/api/event/Order;
+      @|com\darwinreforged\pweather\Listeners.java|796|801|Order|class|org.spongepowered.api.event.Order
+      @|com\darwinreforged\pweather\Listeners.java|802|806|LATE|field|org.spongepowered.api.event.Order|LATE
+      @|com\darwinreforged\pweather\Listeners.java|822|833|onPlotEnter|method|com.darwinreforged.pweather.Listeners|onPlotEnter|(Lcom/plotsquared/sponge/events/PlayerEnterPlotEvent;)V
+      @|com\darwinreforged\pweather\Listeners.java|834|854|PlayerEnterPlotEvent|class|com.plotsquared.sponge.events.PlayerEnterPlotEvent
+      @|com\darwinreforged\pweather\Listeners.java|872|876|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|877|893|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\Listeners.java|908|914|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\Listeners.java|924|929|event|param|com.darwinreforged.pweather.Listeners|onPlotEnter|(Lcom/plotsquared/sponge/events/PlayerEnterPlotEvent;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|930|939|getPlayer|method|com.plotsquared.sponge.events.PlayerEvent|getPlayer|()Lorg/spongepowered/api/entity/living/player/Player;
+      @|com\darwinreforged\pweather\Listeners.java|947|951|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Listeners.java|966|977|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\Listeners.java|989|993|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|994|1016|toggledPlayersContains|method|com.darwinreforged.pweather.Core|toggledPlayersContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Listeners.java|1037|1041|Plot|class|com.intellectualcrafters.plot.object.Plot
+      @|com\darwinreforged\pweather\Listeners.java|1049|1054|event|param|com.darwinreforged.pweather.Listeners|onPlotEnter|(Lcom/plotsquared/sponge/events/PlayerEnterPlotEvent;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|1055|1062|getPlot|method|com.plotsquared.sponge.events.PlayerEnterPlotEvent|getPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\Listeners.java|1094|1101|getFlag|method|com.intellectualcrafters.plot.object.Plot|getFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Listeners.java|1102|1107|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\Listeners.java|1108|1115|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\Listeners.java|1187|1194|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|1209|1221|Core.Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|1222|1224|of|method|com.darwinreforged.pweather.Core.Weather|of|(I)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Listeners.java|1243|1250|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|1268|1272|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|1273|1290|getPlayersWeather|method|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Listeners.java|1634|1655|determinePacketToSend|method|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V
+   Method End: onPlotEnter(Lcom/plotsquared/sponge/events/PlayerEnterPlotEvent;)V
+   Method Start: onPlotExit(Lcom/plotsquared/sponge/events/PlayerLeavePlotEvent;)V
+      @|com\darwinreforged\pweather\Listeners.java|1755|1760|event|param|com.darwinreforged.pweather.Listeners|onPlotExit|(Lcom/plotsquared/sponge/events/PlayerLeavePlotEvent;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|1700|1708|Listener|class|org.spongepowered.api.event.Listener
+      @|com\darwinreforged\pweather\Listeners.java|1723|1733|onPlotExit|method|com.darwinreforged.pweather.Listeners|onPlotExit|(Lcom/plotsquared/sponge/events/PlayerLeavePlotEvent;)V
+      @|com\darwinreforged\pweather\Listeners.java|1734|1754|PlayerLeavePlotEvent|class|com.plotsquared.sponge.events.PlayerLeavePlotEvent
+      @|com\darwinreforged\pweather\Listeners.java|1772|1776|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|1777|1793|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\Listeners.java|1808|1814|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\Listeners.java|1824|1829|event|param|com.darwinreforged.pweather.Listeners|onPlotExit|(Lcom/plotsquared/sponge/events/PlayerLeavePlotEvent;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|1830|1839|getPlayer|method|com.plotsquared.sponge.events.PlayerEvent|getPlayer|()Lorg/spongepowered/api/entity/living/player/Player;
+      @|com\darwinreforged\pweather\Listeners.java|1847|1851|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Listeners.java|1866|1877|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\Listeners.java|1885|1889|Plot|class|com.intellectualcrafters.plot.object.Plot
+      @|com\darwinreforged\pweather\Listeners.java|1897|1902|event|param|com.darwinreforged.pweather.Listeners|onPlotExit|(Lcom/plotsquared/sponge/events/PlayerLeavePlotEvent;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|1903|1910|getPlot|method|com.plotsquared.sponge.events.PlayerLeavePlotEvent|getPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\Listeners.java|1942|1949|getFlag|method|com.intellectualcrafters.plot.object.Plot|getFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\Listeners.java|1950|1955|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\Listeners.java|1956|1963|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\Listeners.java|2035|2042|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|2057|2069|Core.Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|2070|2072|of|method|com.darwinreforged.pweather.Core.Weather|of|(I)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Listeners.java|2091|2098|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|2116|2120|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2121|2138|getPlayersWeather|method|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Listeners.java|2151|2172|determinePacketToSend|method|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V
+   Method End: onPlotExit(Lcom/plotsquared/sponge/events/PlayerLeavePlotEvent;)V
+   Method Start: onPlayerJoin(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Join;Lorg/spongepowered/api/entity/living/player/Player;)V
+      @|com\darwinreforged\pweather\Listeners.java|2258|2263|event|param|com.darwinreforged.pweather.Listeners|onPlayerJoin|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Join;Lorg/spongepowered/api/entity/living/player/Player;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|2279|2285|player|param|com.darwinreforged.pweather.Listeners|onPlayerJoin|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Join;Lorg/spongepowered/api/entity/living/player/Player;)V|player|1
+      @|com\darwinreforged\pweather\Listeners.java|2217|2225|Listener|class|org.spongepowered.api.event.Listener
+      @|com\darwinreforged\pweather\Listeners.java|2240|2252|onPlayerJoin|method|com.darwinreforged.pweather.Listeners|onPlayerJoin|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Join;Lorg/spongepowered/api/entity/living/player/Player;)V
+      @|com\darwinreforged\pweather\Listeners.java|2253|2257|Join|class|org.spongepowered.api.event.network.ClientConnectionEvent.Join
+      @|com\darwinreforged\pweather\Listeners.java|2266|2271|First|class|org.spongepowered.api.event.filter.cause.First
+      @|com\darwinreforged\pweather\Listeners.java|2272|2278|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\Listeners.java|2297|2301|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2302|2318|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\Listeners.java|2323|2327|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2328|2349|playerWeatherContains|method|com.darwinreforged.pweather.Core|playerWeatherContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\Listeners.java|2350|2356|player|param|com.darwinreforged.pweather.Listeners|onPlayerJoin|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Join;Lorg/spongepowered/api/entity/living/player/Player;)V|player|1
+      @|com\darwinreforged\pweather\Listeners.java|2357|2368|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\Listeners.java|2385|2389|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Listeners.java|2397|2403|player|param|com.darwinreforged.pweather.Listeners|onPlayerJoin|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Join;Lorg/spongepowered/api/entity/living/player/Player;)V|player|1
+      @|com\darwinreforged\pweather\Listeners.java|2404|2415|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\Listeners.java|2432|2436|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2437|2454|getPlayersWeather|method|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\Listeners.java|2475|2482|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Listeners.java|2492|2496|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2497|2520|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|2527|2534|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|2535|2542|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Listeners.java|2571|2580|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\Listeners.java|2590|2594|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2595|2613|addLightningPlayer|method|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Listeners.java|2647|2661|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\Listeners.java|2671|2675|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2676|2699|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|2706|2713|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|2714|2721|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Listeners.java|2732|2736|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2737|2755|addLightningPlayer|method|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V
+   Method End: onPlayerJoin(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Join;Lorg/spongepowered/api/entity/living/player/Player;)V
+   Method Start: onPlayerLeave(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Disconnect;Lorg/spongepowered/api/entity/living/player/Player;)V
+      @|com\darwinreforged\pweather\Listeners.java|2862|2867|event|param|com.darwinreforged.pweather.Listeners|onPlayerLeave|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Disconnect;Lorg/spongepowered/api/entity/living/player/Player;)V|event|0
+      @|com\darwinreforged\pweather\Listeners.java|2883|2889|player|param|com.darwinreforged.pweather.Listeners|onPlayerLeave|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Disconnect;Lorg/spongepowered/api/entity/living/player/Player;)V|player|1
+      @|com\darwinreforged\pweather\Listeners.java|2792|2800|Listener|class|org.spongepowered.api.event.Listener
+      @|com\darwinreforged\pweather\Listeners.java|2815|2828|onPlayerLeave|method|com.darwinreforged.pweather.Listeners|onPlayerLeave|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Disconnect;Lorg/spongepowered/api/entity/living/player/Player;)V
+      @|com\darwinreforged\pweather\Listeners.java|2829|2861|ClientConnectionEvent.Disconnect|class|org.spongepowered.api.event.network.ClientConnectionEvent.Disconnect
+      @|com\darwinreforged\pweather\Listeners.java|2870|2875|First|class|org.spongepowered.api.event.filter.cause.First
+      @|com\darwinreforged\pweather\Listeners.java|2876|2882|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\Listeners.java|2897|2901|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|2902|2923|removeLightningPlayer|method|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Listeners.java|2924|2930|player|param|com.darwinreforged.pweather.Listeners|onPlayerLeave|(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Disconnect;Lorg/spongepowered/api/entity/living/player/Player;)V|player|1
+      @|com\darwinreforged\pweather\Listeners.java|2931|2942|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+   Method End: onPlayerLeave(Lorg/spongepowered/api/event/network/ClientConnectionEvent$Disconnect;Lorg/spongepowered/api/entity/living/player/Player;)V
+   Method Start: determinePacketToSend(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|2994|2998|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3008|3012|from|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|from|1
+      @|com\darwinreforged\pweather\Listeners.java|3022|3024|to|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|to|2
+      @|com\darwinreforged\pweather\Listeners.java|2967|2988|determinePacketToSend|method|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|2989|2993|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\Listeners.java|3000|3007|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3014|3021|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3079|3083|from|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|from|1
+      @|com\darwinreforged\pweather\Listeners.java|3087|3089|to|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|to|2
+      @|com\darwinreforged\pweather\Listeners.java|3112|3114|to|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|to|2
+      @|com\darwinreforged\pweather\Listeners.java|3129|3134|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\Listeners.java|3144|3148|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3149|3172|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|3173|3177|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3179|3186|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3187|3192|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\Listeners.java|3203|3207|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3208|3229|removeLightningPlayer|method|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Listeners.java|3230|3234|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3264|3271|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Listeners.java|3285|3289|from|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|from|1
+      @|com\darwinreforged\pweather\Listeners.java|3293|3300|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3301|3315|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\Listeners.java|3329|3333|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3334|3357|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|3358|3362|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3364|3371|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3372|3379|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Listeners.java|3400|3404|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3405|3426|removeLightningPlayer|method|com.darwinreforged.pweather.Core|removeLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Listeners.java|3427|3431|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3462|3471|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\Listeners.java|3548|3552|from|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|from|1
+      @|com\darwinreforged\pweather\Listeners.java|3556|3563|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3564|3569|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\Listeners.java|3583|3587|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3588|3611|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|3612|3616|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3618|3625|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3626|3631|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\Listeners.java|3652|3656|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3657|3675|addLightningPlayer|method|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Listeners.java|3676|3680|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3710|3724|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\Listeners.java|3801|3805|from|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|from|1
+      @|com\darwinreforged\pweather\Listeners.java|3809|3816|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3817|3824|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Listeners.java|3838|3842|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3843|3866|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\Listeners.java|3867|3871|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+      @|com\darwinreforged\pweather\Listeners.java|3873|3880|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\Listeners.java|3881|3888|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\Listeners.java|3909|3913|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\Listeners.java|3914|3932|addLightningPlayer|method|com.darwinreforged.pweather.Core|addLightningPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\Listeners.java|3933|3937|uuid|param|com.darwinreforged.pweather.Listeners|determinePacketToSend|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V|uuid|0
+   Method End: determinePacketToSend(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Lcom/darwinreforged/pweather/Core$Weather;)V
+Class End  : com.darwinreforged.pweather.Listeners
+endProcessing "com\darwinreforged\pweather\Listeners.java"
+
+startProcessing "com\darwinreforged\pweather\PlayerWeatherCommand.java" md5: ec6d4574c3da42ca00c868fe207636fe
+Cache Hit!
+@|com\darwinreforged\pweather\PlayerWeatherCommand.java|8|35|com.darwinreforged.pweather|package|com.darwinreforged.pweather|(file)
+Class Start: com.darwinreforged.pweather.PlayerWeatherCommand
+   @|com\darwinreforged\pweather\PlayerWeatherCommand.java|527|547|PlayerWeatherCommand|class|com.darwinreforged.pweather.PlayerWeatherCommand
+   @|com\darwinreforged\pweather\PlayerWeatherCommand.java|559|574|CommandExecutor|class|org.spongepowered.api.command.spec.CommandExecutor
+   Method Start: execute(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|634|637|src|param|com.darwinreforged.pweather.PlayerWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|654|658|args|param|com.darwinreforged.pweather.PlayerWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|args|1
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|580|588|Override|class|java.lang.Override
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|598|611|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|612|619|execute|method|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|620|633|CommandSource|class|org.spongepowered.api.command.CommandSource
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|639|653|CommandContext|class|org.spongepowered.api.command.args.CommandContext
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|667|683|CommandException|class|org.spongepowered.api.command.CommandException
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|696|699|src|param|com.darwinreforged.pweather.PlayerWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|711|717|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|728|731|src|param|com.darwinreforged.pweather.PlayerWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|732|743|sendMessage|method|org.spongepowered.api.text.channel.MessageReceiver|sendMessage|(Lorg/spongepowered/api/text/Text;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|744|748|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|749|751|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|815|828|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|829|836|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|851|857|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|868|874|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|876|879|src|param|com.darwinreforged.pweather.PlayerWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|885|889|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|904|915|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|924|932|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|933|939|String|class|java.lang.String
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|959|963|args|param|com.darwinreforged.pweather.PlayerWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|args|1
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|964|970|getOne|method|org.spongepowered.api.command.args.CommandContext|getOne|(Ljava/lang/String;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1007|1016|isPresent|method|java.util.Optional|isPresent|()Z
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1028|1034|String|class|java.lang.String
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1068|1071|get|method|java.util.Optional|get|()Ljava/lang/Object;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1081|1088|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1099|1103|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1104|1116|parseWeather|method|com.darwinreforged.pweather.Core|parseWeather|(Ljava/lang/String;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1178|1185|UNKNOWN|field|com.darwinreforged.pweather.Core.Weather|UNKNOWN
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1197|1201|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1202|1213|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1408|1421|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1422|1429|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1447|1452|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1498|1502|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1503|1526|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1533|1540|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1541|1546|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1563|1567|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1568|1589|playerWeatherContains|method|com.darwinreforged.pweather.Core|playerWeatherContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1597|1601|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1602|1621|removePlayerWeather|method|com.darwinreforged.pweather.Core|removePlayerWeather|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1661|1668|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1680|1684|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1685|1703|addToPlayerWeather|method|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1710|1717|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1718|1725|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1738|1742|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1743|1766|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1773|1780|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1781|1788|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1823|1832|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1910|1914|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1915|1938|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1945|1952|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1953|1958|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1971|1975|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|1976|1994|addToPlayerWeather|method|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2001|2008|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2009|2018|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2053|2067|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2079|2083|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2084|2102|addToPlayerWeather|method|com.darwinreforged.pweather.Core|addToPlayerWeather|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2109|2116|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2117|2131|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2188|2192|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2193|2216|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2223|2230|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2231|2238|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2272|2276|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2277|2288|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2350|2363|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2364|2371|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2395|2399|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2400|2411|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2472|2485|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlayerWeatherCommand.java|2486|2491|empty|method|org.spongepowered.api.command.CommandResult|empty|()Lorg/spongepowered/api/command/CommandResult;
+   Method End: execute(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;
+Class End  : com.darwinreforged.pweather.PlayerWeatherCommand
+endProcessing "com\darwinreforged\pweather\PlayerWeatherCommand.java"
+
+startProcessing "com\darwinreforged\pweather\PlotWeatherCommand.java" md5: e9575e4de7553b10c588b0713d8f57c7
+Cache Hit!
+@|com\darwinreforged\pweather\PlotWeatherCommand.java|8|35|com.darwinreforged.pweather|package|com.darwinreforged.pweather|(file)
+Class Start: com.darwinreforged.pweather.PlotWeatherCommand
+   @|com\darwinreforged\pweather\PlotWeatherCommand.java|659|677|PlotWeatherCommand|class|com.darwinreforged.pweather.PlotWeatherCommand
+   @|com\darwinreforged\pweather\PlotWeatherCommand.java|689|704|CommandExecutor|class|org.spongepowered.api.command.spec.CommandExecutor
+   Method Start: execute(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|765|768|src|param|com.darwinreforged.pweather.PlotWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|785|789|args|param|com.darwinreforged.pweather.PlotWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|args|1
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|711|719|Override|class|java.lang.Override
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|729|742|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|743|750|execute|method|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|751|764|CommandSource|class|org.spongepowered.api.command.CommandSource
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|770|784|CommandContext|class|org.spongepowered.api.command.args.CommandContext
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|798|814|CommandException|class|org.spongepowered.api.command.CommandException
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|827|830|src|param|com.darwinreforged.pweather.PlotWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|842|848|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|859|862|src|param|com.darwinreforged.pweather.PlotWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|863|874|sendMessage|method|org.spongepowered.api.text.channel.MessageReceiver|sendMessage|(Lorg/spongepowered/api/text/Text;)V
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|875|879|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|880|882|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|946|959|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|960|967|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|982|988|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|999|1005|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1007|1010|src|param|com.darwinreforged.pweather.PlotWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|0
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1016|1026|PlotPlayer|class|com.intellectualcrafters.plot.object.PlotPlayer
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1040|1050|PlotPlayer|class|com.intellectualcrafters.plot.object.PlotPlayer
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1051|1055|wrap|method|com.intellectualcrafters.plot.object.PlotPlayer|wrap|(Ljava/lang/Object;)Lcom/intellectualcrafters/plot/object/PlotPlayer;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1069|1077|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1078|1084|String|class|java.lang.String
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1104|1108|args|param|com.darwinreforged.pweather.PlotWeatherCommand|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|args|1
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1109|1115|getOne|method|org.spongepowered.api.command.args.CommandContext|getOne|(Ljava/lang/String;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1153|1162|isPresent|method|java.util.Optional|isPresent|()Z
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1174|1180|String|class|java.lang.String
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1207|1210|get|method|java.util.Optional|get|()Ljava/lang/Object;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1236|1250|getCurrentPlot|method|com.intellectualcrafters.plot.object.PlotPlayer|getCurrentPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1272|1276|Plot|class|com.intellectualcrafters.plot.object.Plot
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1295|1309|getCurrentPlot|method|com.intellectualcrafters.plot.object.PlotPlayer|getCurrentPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1331|1338|isOwner|method|com.intellectualcrafters.plot.object.Plot|isOwner|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1346|1357|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1374|1381|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1397|1401|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1402|1414|parseWeather|method|com.darwinreforged.pweather.Core|parseWeather|(Ljava/lang/String;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1477|1482|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1503|1510|setFlag|method|com.intellectualcrafters.plot.object.Plot|setFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1511|1516|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1517|1524|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1526|1533|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1534|1539|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1540|1548|getValue|method|com.darwinreforged.pweather.Core.Weather|getValue|()I
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1592|1599|UNKNOWN|field|com.darwinreforged.pweather.Core.Weather|UNKNOWN
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1615|1619|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1620|1631|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1826|1839|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1840|1847|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1869|1876|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1897|1904|setFlag|method|com.intellectualcrafters.plot.object.Plot|setFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1905|1910|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1911|1918|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1920|1927|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1928|1935|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1936|1944|getValue|method|com.darwinreforged.pweather.Core.Weather|getValue|()I
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|1988|1997|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2018|2025|setFlag|method|com.intellectualcrafters.plot.object.Plot|setFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2026|2031|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2032|2039|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2041|2048|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2049|2058|LIGHTNING|field|com.darwinreforged.pweather.Core.Weather|LIGHTNING
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2059|2067|getValue|method|com.darwinreforged.pweather.Core.Weather|getValue|()I
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2111|2125|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2146|2153|setFlag|method|com.intellectualcrafters.plot.object.Plot|setFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Z
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2154|2159|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2160|2167|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2169|2176|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2177|2191|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2192|2200|getValue|method|com.darwinreforged.pweather.Core.Weather|getValue|()I
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2248|2252|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2253|2264|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2349|2353|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2354|2365|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2469|2473|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2474|2485|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2576|2580|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2581|2592|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2653|2666|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\PlotWeatherCommand.java|2667|2674|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+   Method End: execute(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;
+Class End  : com.darwinreforged.pweather.PlotWeatherCommand
+endProcessing "com\darwinreforged\pweather\PlotWeatherCommand.java"
+
+startProcessing "com\darwinreforged\pweather\WeatherPlugin.java" md5: 75f610d0cc7ef478d3d3abd0f99fb9a7
+Cache Hit!
+    Compile Error! Pb(645) Lambda expressions are allowed only at source level 1.8 or above
+    Compile Error! Pb(645) Lambda expressions are allowed only at source level 1.8 or above
+    Compile Error! Pb(645) Lambda expressions are allowed only at source level 1.8 or above
+@|com\darwinreforged\pweather\WeatherPlugin.java|8|35|com.darwinreforged.pweather|package|com.darwinreforged.pweather|(file)
+Class Start: com.darwinreforged.pweather.WeatherPlugin
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1067|1073|Plugin|class|org.spongepowered.api.plugin.Plugin
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1079|1081|id|method|org.spongepowered.api.plugin.Plugin|id|()Ljava/lang/String;
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1105|1109|name|method|org.spongepowered.api.plugin.Plugin|name|()Ljava/lang/String;
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1133|1144|description|method|org.spongepowered.api.plugin.Plugin|description|()Ljava/lang/String;
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1200|1212|dependencies|method|org.spongepowered.api.plugin.Plugin|dependencies|()[Lorg/spongepowered/api/plugin/Dependency;
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1217|1227|Dependency|class|org.spongepowered.api.plugin.Dependency
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1228|1230|id|method|org.spongepowered.api.plugin.Dependency|id|()Ljava/lang/String;
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1249|1259|Dependency|class|org.spongepowered.api.plugin.Dependency
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1260|1262|id|method|org.spongepowered.api.plugin.Dependency|id|()Ljava/lang/String;
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1289|1302|WeatherPlugin|class|com.darwinreforged.pweather.WeatherPlugin
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1324|1330|Logger|class|org.slf4j.Logger
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1309|1315|Inject|class|com.google.inject.Inject
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1324|1330|Logger|class|org.slf4j.Logger
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1331|1337|logger|field|com.darwinreforged.pweather.WeatherPlugin|logger|
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1357|1370|WeatherPlugin|class|com.darwinreforged.pweather.WeatherPlugin
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1357|1370|WeatherPlugin|class|com.darwinreforged.pweather.WeatherPlugin
+   @|com\darwinreforged\pweather\WeatherPlugin.java|1371|1377|plugin|field|com.darwinreforged.pweather.WeatherPlugin|plugin|
+   Method Start: getPlugin()Lcom/darwinreforged/pweather/WeatherPlugin;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1396|1409|WeatherPlugin|class|com.darwinreforged.pweather.WeatherPlugin
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1410|1419|getPlugin|method|com.darwinreforged.pweather.WeatherPlugin|getPlugin|()Lcom/darwinreforged/pweather/WeatherPlugin;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1436|1442|plugin|field|com.darwinreforged.pweather.WeatherPlugin|plugin
+   Method End: getPlugin()Lcom/darwinreforged/pweather/WeatherPlugin;
+   Method Start: onServerStart(Lorg/spongepowered/api/event/game/state/GameStartedServerEvent;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1512|1517|event|param|com.darwinreforged.pweather.WeatherPlugin|onServerStart|(Lorg/spongepowered/api/event/game/state/GameStartedServerEvent;)V|event|0
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1452|1460|Listener|class|org.spongepowered.api.event.Listener
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1475|1488|onServerStart|method|com.darwinreforged.pweather.WeatherPlugin|onServerStart|(Lorg/spongepowered/api/event/game/state/GameStartedServerEvent;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1489|1511|GameStartedServerEvent|class|org.spongepowered.api.event.game.state.GameStartedServerEvent
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1525|1533|Optional|class|java.util.Optional
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1534|1544|PacketGate|class|eu.crushedpixel.sponge.packetgate.api.registry.PacketGate
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1567|1573|Sponge|class|org.spongepowered.api.Sponge
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1574|1591|getServiceManager|method|org.spongepowered.api.Sponge|getServiceManager|()Lorg/spongepowered/api/service/ServiceManager;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1594|1601|provide|method|org.spongepowered.api.service.ServiceManager|provide|(Ljava/lang/Class;)Ljava/util/Optional;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1602|1612|PacketGate|class|eu.crushedpixel.sponge.packetgate.api.registry.PacketGate
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1648|1657|isPresent|method|java.util.Optional|isPresent|()Z
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1669|1675|logger|field|com.darwinreforged.pweather.WeatherPlugin|logger
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1676|1680|info|method|org.slf4j.Logger|info|(Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1714|1731|initialiseCommand|method|com.darwinreforged.pweather.WeatherPlugin|initialiseCommand|()V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1741|1747|Sponge|class|org.spongepowered.api.Sponge
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1748|1763|getEventManager|method|org.spongepowered.api.Sponge|getEventManager|()Lorg/spongepowered/api/event/EventManager;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1766|1783|registerListeners|method|org.spongepowered.api.event.EventManager|registerListeners|(Ljava/lang/Object;Ljava/lang/Object;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1794|1803|Listeners|class|com.darwinreforged.pweather.Listeners
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1814|1820|logger|field|com.darwinreforged.pweather.WeatherPlugin|logger
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1821|1825|info|method|org.slf4j.Logger|info|(Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1888|1894|logger|field|com.darwinreforged.pweather.WeatherPlugin|logger
+      @|com\darwinreforged\pweather\WeatherPlugin.java|1895|1900|error|method|org.slf4j.Logger|error|(Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2014|2027|WeatherPlugin|class|com.darwinreforged.pweather.WeatherPlugin
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2028|2034|plugin|field|com.darwinreforged.pweather.WeatherPlugin|plugin
+   Method End: onServerStart(Lorg/spongepowered/api/event/game/state/GameStartedServerEvent;)V
+   Method Start: initialiseCommand()V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2063|2080|initialiseCommand|method|com.darwinreforged.pweather.WeatherPlugin|initialiseCommand|()V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2089|2100|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2130|2141|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2142|2149|builder|method|org.spongepowered.api.command.spec.CommandSpec|builder|()Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2165|2176|description|method|org.spongepowered.api.command.spec.CommandSpec.Builder|description|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2177|2181|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2182|2184|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2231|2241|permission|method|org.spongepowered.api.command.spec.CommandSpec.Builder|permission|(Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2285|2294|arguments|method|org.spongepowered.api.command.spec.CommandSpec.Builder|arguments|(Lorg/spongepowered/api/command/args/CommandElement;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2295|2311|GenericArguments|class|org.spongepowered.api.command.args.GenericArguments
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2312|2319|onlyOne|method|org.spongepowered.api.command.args.GenericArguments|onlyOne|(Lorg/spongepowered/api/command/args/CommandElement;)Lorg/spongepowered/api/command/args/CommandElement;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2320|2336|GenericArguments|class|org.spongepowered.api.command.args.GenericArguments
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2337|2343|string|method|org.spongepowered.api.command.args.GenericArguments|string|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/args/CommandElement;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2344|2348|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2349|2351|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2379|2387|executor|method|org.spongepowered.api.command.spec.CommandSpec.Builder|executor|(Lorg/spongepowered/api/command/spec/CommandExecutor;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2392|2410|PlotWeatherCommand|class|com.darwinreforged.pweather.PlotWeatherCommand
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2427|2432|build|method|org.spongepowered.api.command.spec.CommandSpec.Builder|build|()Lorg/spongepowered/api/command/spec/CommandSpec;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2441|2452|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2484|2495|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2496|2503|builder|method|org.spongepowered.api.command.spec.CommandSpec|builder|()Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2519|2530|description|method|org.spongepowered.api.command.spec.CommandSpec.Builder|description|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2531|2535|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2536|2538|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2582|2592|permission|method|org.spongepowered.api.command.spec.CommandSpec.Builder|permission|(Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2635|2644|arguments|method|org.spongepowered.api.command.spec.CommandSpec.Builder|arguments|(Lorg/spongepowered/api/command/args/CommandElement;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2645|2661|GenericArguments|class|org.spongepowered.api.command.args.GenericArguments
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2662|2669|onlyOne|method|org.spongepowered.api.command.args.GenericArguments|onlyOne|(Lorg/spongepowered/api/command/args/CommandElement;)Lorg/spongepowered/api/command/args/CommandElement;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2670|2686|GenericArguments|class|org.spongepowered.api.command.args.GenericArguments
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2687|2693|string|method|org.spongepowered.api.command.args.GenericArguments|string|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/args/CommandElement;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2694|2698|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2699|2701|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2729|2737|executor|method|org.spongepowered.api.command.spec.CommandSpec.Builder|executor|(Lorg/spongepowered/api/command/spec/CommandExecutor;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2742|2762|PlayerWeatherCommand|class|com.darwinreforged.pweather.PlayerWeatherCommand
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2779|2784|build|method|org.spongepowered.api.command.spec.CommandSpec.Builder|build|()Lorg/spongepowered/api/command/spec/CommandSpec;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2793|2804|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2842|2853|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2854|2861|builder|method|org.spongepowered.api.command.spec.CommandSpec|builder|()Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2877|2888|description|method|org.spongepowered.api.command.spec.CommandSpec.Builder|description|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2889|2893|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2894|2896|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|2966|2976|permission|method|org.spongepowered.api.command.spec.CommandSpec.Builder|permission|(Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3029|3038|arguments|method|org.spongepowered.api.command.spec.CommandSpec.Builder|arguments|(Lorg/spongepowered/api/command/args/CommandElement;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3039|3055|GenericArguments|class|org.spongepowered.api.command.args.GenericArguments
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3056|3060|none|method|org.spongepowered.api.command.args.GenericArguments|none|()Lorg/spongepowered/api/command/args/CommandElement;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3077|3085|executor|method|org.spongepowered.api.command.spec.CommandSpec.Builder|executor|(Lorg/spongepowered/api/command/spec/CommandExecutor;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3144|3147|src|param|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|-1
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3159|3165|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3190|3193|src|param|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|-1
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3194|3205|sendMessage|method|org.spongepowered.api.text.channel.MessageReceiver|sendMessage|(Lorg/spongepowered/api/text/Text;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3206|3210|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3211|3213|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3292|3305|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3306|3313|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3436|3442|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3453|3459|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3461|3464|src|param|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|-1
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3484|3488|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3489|3505|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3509|3513|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3514|3530|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3550|3554|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3555|3566|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3597|3601|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3602|3618|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3660|3664|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3665|3684|getLightningPlayers|method|com.darwinreforged.pweather.Core|getLightningPlayers|()Ljava/util/ArrayList;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3687|3691|size|method|java.util.Collection|size|()I
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3728|3732|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3733|3749|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3779|3795|LightningManager|class|com.darwinreforged.pweather.LightningManager
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3796|3818|stopLightningScheduler|method|com.darwinreforged.pweather.LightningManager|stopLightningScheduler|()V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3901|3917|LightningManager|class|com.darwinreforged.pweather.LightningManager
+      @|com\darwinreforged\pweather\WeatherPlugin.java|3918|3941|startlightningScheduler|method|com.darwinreforged.pweather.LightningManager|startlightningScheduler|()V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4013|4019|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4035|4041|Sponge|class|org.spongepowered.api.Sponge
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4042|4051|getServer|method|org.spongepowered.api.Sponge|getServer|()Lorg/spongepowered/api/Server;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4054|4070|getOnlinePlayers|method|org.spongepowered.api.Server|getOnlinePlayers|()Ljava/util/Collection;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4116|4120|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4141|4152|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4182|4186|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4187|4203|globalWeatherOff|field|com.darwinreforged.pweather.Core|globalWeatherOff
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4255|4259|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4260|4271|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4354|4364|PlotPlayer|class|com.intellectualcrafters.plot.object.PlotPlayer
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4378|4388|PlotPlayer|class|com.intellectualcrafters.plot.object.PlotPlayer
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4389|4393|wrap|method|com.intellectualcrafters.plot.object.PlotPlayer|wrap|(Ljava/lang/Object;)Lcom/intellectualcrafters/plot/object/PlotPlayer;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4450|4464|getCurrentPlot|method|com.intellectualcrafters.plot.object.PlotPlayer|getCurrentPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4508|4512|Plot|class|com.intellectualcrafters.plot.object.Plot
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4531|4545|getCurrentPlot|method|com.intellectualcrafters.plot.object.PlotPlayer|getCurrentPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4820|4827|getFlag|method|com.intellectualcrafters.plot.object.Plot|getFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4828|4833|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4834|4841|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4853|4857|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4858|4879|playerWeatherContains|method|com.darwinreforged.pweather.Core|playerWeatherContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4923|4927|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4928|4951|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;Z)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4958|4965|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\WeatherPlugin.java|4966|4971|RESET|field|com.darwinreforged.pweather.Core.Weather|RESET
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5119|5123|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5124|5135|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5208|5215|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5226|5230|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5231|5248|getPlayersWeather|method|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5297|5304|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5305|5312|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5327|5334|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5335|5349|LIGHTNINGSTORM|field|com.darwinreforged.pweather.Core.Weather|LIGHTNINGSTORM
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5383|5387|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5388|5411|sendPlayerWeatherPacket|method|com.darwinreforged.pweather.Core|sendPlayerWeatherPacket|(Ljava/util/UUID;Lcom/darwinreforged/pweather/Core$Weather;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5418|5425|Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5426|5433|RAINING|field|com.darwinreforged.pweather.Core.Weather|RAINING
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5534|5547|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5548|5555|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5591|5596|build|method|org.spongepowered.api.command.spec.CommandSpec.Builder|build|()Lorg/spongepowered/api/command/spec/CommandSpec;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5605|5616|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5644|5655|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5656|5663|builder|method|org.spongepowered.api.command.spec.CommandSpec|builder|()Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5687|5698|description|method|org.spongepowered.api.command.spec.CommandSpec.Builder|description|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5699|5703|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5704|5706|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5781|5791|permission|method|org.spongepowered.api.command.spec.CommandSpec.Builder|permission|(Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5844|5853|arguments|method|org.spongepowered.api.command.spec.CommandSpec.Builder|arguments|(Lorg/spongepowered/api/command/args/CommandElement;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5854|5870|GenericArguments|class|org.spongepowered.api.command.args.GenericArguments
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5871|5875|none|method|org.spongepowered.api.command.args.GenericArguments|none|()Lorg/spongepowered/api/command/args/CommandElement;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5900|5908|executor|method|org.spongepowered.api.command.spec.CommandSpec.Builder|executor|(Lorg/spongepowered/api/command/spec/CommandExecutor;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|5985|5988|src|param|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|-1
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6000|6006|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6016|6029|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6030|6037|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6069|6075|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6086|6092|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6094|6097|src|param|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|-1
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6127|6131|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6132|6143|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6215|6219|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6220|6237|getPlayersWeather|method|com.darwinreforged.pweather.Core|getPlayersWeather|(Ljava/util/UUID;)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6245|6256|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6290|6294|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6295|6306|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6377|6381|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6382|6406|lightningPlayersContains|method|com.darwinreforged.pweather.Core|lightningPlayersContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6414|6425|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6459|6463|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6464|6475|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6484|6500|LightningManager|class|com.darwinreforged.pweather.LightningManager
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6501|6525|lightningSchedulerStatus|method|com.darwinreforged.pweather.LightningManager|lightningSchedulerStatus|()Ljava/lang/String;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6653|6663|PlotPlayer|class|com.intellectualcrafters.plot.object.PlotPlayer
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6677|6687|PlotPlayer|class|com.intellectualcrafters.plot.object.PlotPlayer
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6688|6692|wrap|method|com.intellectualcrafters.plot.object.PlotPlayer|wrap|(Ljava/lang/Object;)Lcom/intellectualcrafters/plot/object/PlotPlayer;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6745|6759|getCurrentPlot|method|com.intellectualcrafters.plot.object.PlotPlayer|getCurrentPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6805|6809|Plot|class|com.intellectualcrafters.plot.object.Plot
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6828|6842|getCurrentPlot|method|com.intellectualcrafters.plot.object.PlotPlayer|getCurrentPlot|()Lcom/intellectualcrafters/plot/object/Plot;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6901|6908|getFlag|method|com.intellectualcrafters.plot.object.Plot|getFlag|(Lcom/intellectualcrafters/plot/flag/Flag;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6909|6914|Flags|class|com.intellectualcrafters.plot.flag.Flags
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6915|6922|WEATHER|field|com.intellectualcrafters.plot.flag.Flags|WEATHER
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6960|6964|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|6965|6976|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7011|7023|Core.Weather|class|com.darwinreforged.pweather.Core.Weather
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7024|7026|of|method|com.darwinreforged.pweather.Core.Weather|of|(I)Lcom/darwinreforged/pweather/Core$Weather;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7107|7120|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7121|7128|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7180|7185|build|method|org.spongepowered.api.command.spec.CommandSpec.Builder|build|()Lorg/spongepowered/api/command/spec/CommandSpec;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7194|7205|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7245|7256|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7257|7264|builder|method|org.spongepowered.api.command.spec.CommandSpec|builder|()Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7288|7299|description|method|org.spongepowered.api.command.spec.CommandSpec.Builder|description|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7300|7304|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7305|7307|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7382|7392|permission|method|org.spongepowered.api.command.spec.CommandSpec.Builder|permission|(Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7446|7455|arguments|method|org.spongepowered.api.command.spec.CommandSpec.Builder|arguments|(Lorg/spongepowered/api/command/args/CommandElement;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7456|7472|GenericArguments|class|org.spongepowered.api.command.args.GenericArguments
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7473|7477|none|method|org.spongepowered.api.command.args.GenericArguments|none|()Lorg/spongepowered/api/command/args/CommandElement;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7502|7510|executor|method|org.spongepowered.api.command.spec.CommandSpec.Builder|executor|(Lorg/spongepowered/api/command/spec/CommandExecutor;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7587|7590|src|param|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|-1
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7603|7609|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7619|7632|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7633|7640|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7672|7678|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7689|7695|Player|class|org.spongepowered.api.entity.living.player.Player
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7697|7700|src|param|org.spongepowered.api.command.spec.CommandExecutor|execute|(Lorg/spongepowered/api/command/CommandSource;Lorg/spongepowered/api/command/args/CommandContext;)Lorg/spongepowered/api/command/CommandResult;|src|-1
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7730|7734|UUID|class|java.util.UUID
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7749|7760|getUniqueId|method|org.spongepowered.api.util.Identifiable|getUniqueId|()Ljava/util/UUID;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7796|7800|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7801|7823|toggledPlayersContains|method|com.darwinreforged.pweather.Core|toggledPlayersContains|(Ljava/util/UUID;)Z
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7865|7869|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7870|7889|removeToggledPlayer|method|com.darwinreforged.pweather.Core|removeToggledPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7929|7933|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|7934|7945|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8039|8052|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8053|8060|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8122|8126|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8127|8143|addToggledPlayer|method|com.darwinreforged.pweather.Core|addToggledPlayer|(Ljava/util/UUID;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8179|8183|Core|class|com.darwinreforged.pweather.Core
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8184|8195|sendMessage|method|com.darwinreforged.pweather.Core|sendMessage|(Lorg/spongepowered/api/entity/living/player/Player;Ljava/lang/String;)V
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8284|8297|CommandResult|class|org.spongepowered.api.command.CommandResult
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8298|8305|success|method|org.spongepowered.api.command.CommandResult|success|()Lorg/spongepowered/api/command/CommandResult;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8357|8362|build|method|org.spongepowered.api.command.spec.CommandSpec.Builder|build|()Lorg/spongepowered/api/command/spec/CommandSpec;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8371|8382|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8408|8419|CommandSpec|class|org.spongepowered.api.command.spec.CommandSpec
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8420|8427|builder|method|org.spongepowered.api.command.spec.CommandSpec|builder|()Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8443|8454|description|method|org.spongepowered.api.command.spec.CommandSpec.Builder|description|(Lorg/spongepowered/api/text/Text;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8455|8459|Text|class|org.spongepowered.api.text.Text
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8460|8462|of|method|org.spongepowered.api.text.Text|of|(Ljava/lang/String;)Lorg/spongepowered/api/text/LiteralText;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8508|8518|permission|method|org.spongepowered.api.command.spec.CommandSpec.Builder|permission|(Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8557|8562|child|method|org.spongepowered.api.command.spec.CommandSpec.Builder|child|(Lorg/spongepowered/api/command/CommandCallable;[Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8604|8609|child|method|org.spongepowered.api.command.spec.CommandSpec.Builder|child|(Lorg/spongepowered/api/command/CommandCallable;[Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8652|8657|child|method|org.spongepowered.api.command.spec.CommandSpec.Builder|child|(Lorg/spongepowered/api/command/CommandCallable;[Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8715|8720|child|method|org.spongepowered.api.command.spec.CommandSpec.Builder|child|(Lorg/spongepowered/api/command/CommandCallable;[Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8770|8775|child|method|org.spongepowered.api.command.spec.CommandSpec.Builder|child|(Lorg/spongepowered/api/command/CommandCallable;[Ljava/lang/String;)Lorg/spongepowered/api/command/spec/CommandSpec$Builder;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8812|8817|build|method|org.spongepowered.api.command.spec.CommandSpec.Builder|build|()Lorg/spongepowered/api/command/spec/CommandSpec;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8826|8832|Sponge|class|org.spongepowered.api.Sponge
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8833|8850|getCommandManager|method|org.spongepowered.api.Sponge|getCommandManager|()Lorg/spongepowered/api/command/CommandManager;
+      @|com\darwinreforged\pweather\WeatherPlugin.java|8853|8861|register|method|org.spongepowered.api.command.CommandManager|register|(Ljava/lang/Object;Lorg/spongepowered/api/command/CommandCallable;[Ljava/lang/String;)Ljava/util/Optional;
+   Method End: initialiseCommand()V
+Class End  : com.darwinreforged.pweather.WeatherPlugin
+endProcessing "com\darwinreforged\pweather\WeatherPlugin.java"
+

@@ -1,0 +1,8 @@
+[
+    {
+        "modid": "weatherplugin",
+        "name": "WeatherPlugin",
+        "version": "1.1",
+        "description": "Allows players to set their own personal weather"
+    }
+]
