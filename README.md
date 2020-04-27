@@ -8,6 +8,8 @@ A player's personal weather is saved even after they quit the server, but not af
 **Note:** This plugin was designed with the understanding that the server using it will always have clear weather. 
 if your server weather is not always clear, this plugin may not function as intended.
 
+Some of the features can be seen [here](https://youtu.be/iO_Yi8CaJ_8)
+
 ## Dependecies:
 WeatherPlugin requires:
 
